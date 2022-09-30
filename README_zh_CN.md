@@ -15,6 +15,8 @@
 |战地风云 5|中文        |+86-18374535963|2196422430|          |      |qsesqw    |[link](proof/1.png)|
 |战地风云 5|中文        |               |2480514074|579472830 |      |          |[link](proof/2.png)|
 |战地风云 5|中文        |     |805419151,3594478715|117417842 |      |          |[3](proof/3.jpg) [4](proof/4.png) [5](proof/5.png) [6](proof/6.png)|
+|战地风云 5|中文        |               |2609861759|368353301 |      |          |[1](proof/01cec8c69436.png) [2](proof/0d5c3ce63d1f.png) [3](proof/290a00951aec.png) [4](proof/7203c3a2271d.png) [5](proof/be53d32fc772.jpg) [6](proof/ef8671d2497a.png) [7](proof/febfb3b72d6c.png)|
+
 
 ## 我们为什么不得不使用这种方式对抗作弊者
 
