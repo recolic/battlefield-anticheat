@@ -6,7 +6,7 @@ This is a guide to fuck them up!
 
 Since EA is doing nothing against Battlefield cheating, and there is no way to prevent cheating legally. 
 
-We, Battlefield 4, Battlefield 1, Battlefield 5, and Battlefield 2142 Asia players, call on all those who love Battlefield games, use all means, to declare war against the merchants. 
+We, Battlefield 4, Battlefield 1, Battlefield 5, and Battlefield 2042 Asia players, call on all those who love Battlefield games, use all means, to declare war against the merchants. 
 
 We are collecting personal information of cheating software sellers. We will run QQ message flooding, run SMS bombarding, run phone-call bombarding, report their social accounts, and all other legal or illegal means, to cause long-term or permanent mental damage to these merchants. 
 
