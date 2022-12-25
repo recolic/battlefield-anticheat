@@ -1,8 +1,8 @@
-# battlefield-anticheat project
+# So many chinese cheaters in battlefield 5. How could I fuck them up?
+
+This is a guide to fuck them up!
 
 [简体中文版](./README_zh_CN.md)
-
-> If we can not solve a problem in a clean way, we can at least solve it in a dirty way. 
 
 Since EA is doing nothing against Battlefield cheating, and there is no way to prevent cheating legally. 
 
@@ -19,6 +19,8 @@ We are collecting personal information of cheating software sellers. We will run
 |Battlefield 5|Chinese |     |805419151,3594478715|117417842 |      |             |[3](proof/3.jpg) [4](proof/4.png) [5](proof/5.png) [6](proof/6.png)|
 |Battlefield 5|Chinese |               |2609861759|368353301 |      |             |[1](proof/01cec8c69436.png) [2](proof/0d5c3ce63d1f.png) [3](proof/290a00951aec.png) [4](proof/7203c3a2271d.png) [5](proof/be53d32fc772.jpg) [6](proof/ef8671d2497a.png) [7](proof/febfb3b72d6c.png)|
 
+We are also attacking these countless [Taobao Cheating Software sellers](proof/taobao.png).
+
 ## Why are we fighting against game-cheating in this way
 
 Because there is no legal way to fight against it in our country at all. 
@@ -29,12 +31,13 @@ These merchants are directly accountable for the situation that almost all Asia 
 
 ## How do I help in the war
 
+1. Register a taobao account, and spam these sellers with aggresive texts. [Guide to spam them](taobao-howto.md)
 1. Report their social media account. 
-2. Pretend yourself to be someone who want to buy a cheating software, and add their social media account. When they start talking to you, just do some verbal violence to waste their time. (Or do anything else to make you happy and waste their even more time, for example, calling them at midnight, ask for payment method without actually paying, etc...)
-3. Pay $10 to buy a phone bombarding service, and attack their phone number. 
-4. Post their contact information everywhere. For example, "If you want to date a hot girl, add QQ xxxxxxxxx". 
-5. Help us to get phone number from QQ/Wechat account, get any other info from existing info, etc. (You need to provide the proof, so, don't delete your screenshots~)
-6. Anything that make you happy and ruin their day. 
+1. Pretend yourself to be someone who want to buy a cheating software, and add their social media account. When they start talking to you, just do some verbal violence to waste their time. (Or do anything else to make you happy and waste their even more time, for example, calling them at midnight, ask for payment method without actually paying, spam them with automatic chat software, etc...)
+1. Pay $10 to buy a phone bombarding service, and attack their phone number. 
+1. Post their contact information everywhere. For example, "If you want to date a hot girl, add QQ xxxxxxxxx". 
+1. Help us to get phone number from QQ/Wechat account, get any other info from existing info, etc. (You need to provide the proof, so, don't delete your screenshots~)
+1. Anything that make you happy and ruin their day. 
 
 Note that you should avoid using your real social media account or real phone number, because some of them might launch a counterattack. 
 
